@@ -24,4 +24,5 @@ Unfortunately I was not able to achieve the target model performance - my model 
 
 
 SUMMARY
+
 Overall, despite optimizing the model, we were not able to reach the target accuracy of 75% or higher.  A different type of model, such as a random forest classifier, may be able to generate a higher accuracy rate and truly select the most promising charities.
